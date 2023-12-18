@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кінопроекти</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        article {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #fff;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Кінопроекти</h1>
+    </header>
+
+    <section>
+        <article>
+            <h2>Фільм 1</h2>
+            <p>Опис фільму 1...</p>
+        </article>
+
+        <article>
+            <h2>Фільм 2</h2>
+            <p>Опис фільму 2...</p>
+        </article>
+
+        <!-- Додайте більше статей для інших фільмів -->
+
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Кінопроекти. Усі права захищено.</p>
+    </footer>
+
+<h1>Contact Me</h1>
+<p>Tel: +0541561548</p>
+<p>Email: d.rslnavn@gmail.com</p>
+<p>Address:</p>
+<p>
+  Address<br />
+  City<br />
+  Country <br />
+</p>
+
+</body>
+</html>
